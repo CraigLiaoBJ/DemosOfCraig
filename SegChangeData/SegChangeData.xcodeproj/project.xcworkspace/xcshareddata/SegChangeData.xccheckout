@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>38CFB853-8658-4687-86C7-203D5346F5AF</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SegChangeData</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>DB2D5F756FEEABEAC18D44D1FD5ED15A6922CAED</key>
+		<string>https://github.com/CraigLiaoBJ/DemosOfCraig.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SegChangeData/SegChangeData.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>DB2D5F756FEEABEAC18D44D1FD5ED15A6922CAED</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/CraigLiaoBJ/DemosOfCraig.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>DB2D5F756FEEABEAC18D44D1FD5ED15A6922CAED</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DB2D5F756FEEABEAC18D44D1FD5ED15A6922CAED</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DemosOfCraig</string>
+		</dict>
+	</array>
+</dict>
+</plist>
