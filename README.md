@@ -24,3 +24,6 @@ This is Craig's Demo for all iOS Programming lovers. Any problem, please feel fr
 
 #XMPPTEXT
 该demo是通过XMPP实现一个简单的注册，登录，基本聊天
+
+#CustomizedTabBar
+该demo是一个自定义的TabBar以及使用。已经封装好了。用的是直接写的一个方法咯，比较简单。当然还可以重新封装。做的有点丑咯～因为随便在桌面上扒拉了几个图片。大家可以拿去修改。只是仅供参考。
